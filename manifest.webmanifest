@@ -1,0 +1,15 @@
+{
+  "name": "생활도장",
+  "short_name": "생활도장",
+  "description": "일기부터 음악감상까지, 열네 가지 생활을 기록하는 일지",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF1C4",
+  "theme_color": "#FFE9A8",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
